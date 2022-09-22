@@ -1,0 +1,22 @@
+.electronic-category {
+    display: flex;
+    flex-direction: column;
+    width: 7.5rem;
+    height: 5.5rem;
+    border: 1px solid #ececec;
+    background-color: #2a2a2a;
+    color: white;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .electronic-category__brand{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .electronic-category__type{
+    font-size: 0.75rem;
+    font-weight: bold;
+  }
